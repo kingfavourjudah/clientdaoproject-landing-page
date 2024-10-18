@@ -1,0 +1,24 @@
+[[ISSUERS]]
+address = "rsPqeamjpr3Bxu4LhtCgvJEAQusYRRg6Ha"
+name = "LumosDAO"
+
+[[TOKENS]]
+issuer = "rsPqeamjpr3Bxu4LhtCgvJEAQusYRRg6Ha"
+currency = "LUMOS"
+name = "LumosDAO"
+desc = "LumosDAO is a platform that makes it easy to start and run Decentralized Autonomous Organizations (DAOs). It provides tools for users to create proposals, vote, and participate in community decisions, enhancing openness and collaboration."
+icon = "https://lumosdao.io/public/images/Image.png"
+
+[[TOKENS.WEBLINKS]]
+url = "https://lumosdao.com"
+type = "website"
+title = "Official Website"
+
+[[TOKENS.WEBLINKS]]
+url = "https://t.me/lumosdao"
+type = "website"
+title = "Telegram"
+
+[[TOKENS.WEBLINKS]]
+url = "https://X.com/DaoLumos"
+type = "socialmedia"
