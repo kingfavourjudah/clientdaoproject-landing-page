@@ -259,7 +259,7 @@ const Navbar = ({ setConnectWallet, setSettings, settings }) => {
           !user && (
             <div className='font-[600] flex items-center gap-3'>
               <Link href='/'>Home</Link>
-              <Link href="https://app.lumosdao.com" className='bg-[#DC6B19] text-white px-5 py-2 rounded font-[500]'>Enter App</Link>
+              <Link href="https://app.lumosdao.org" className='bg-[#DC6B19] text-white px-5 py-2 rounded font-[500]'>Enter App</Link>
             </div>
           )
         }
